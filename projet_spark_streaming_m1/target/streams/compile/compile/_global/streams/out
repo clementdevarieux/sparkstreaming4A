@@ -1,0 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Volumes/Crucial X8/ESGI/M1/spark_streaming/projet_spark_streaming_m1/src/main/scala/mypackage/Producer.scala:10:30: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method builder,[0m
+[0m[[0m[33mwarn[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function. [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m    val spark = SparkSession.builder[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
