@@ -109,7 +109,7 @@
     </orderEntry>
   </component>
   <component name="SbtModule">
-    <option name="buildForURI" value="file:$MODULE_DIR$/../../../../../../../Crucial%20X8/ESGI/M1/spark_streaming/projet_spark_streaming_m1/" />
+    <option name="buildForURI" value="file:$MODULE_DIR$/../../../../../../../../Crucial%20X8/ESGI/M1/spark_streaming/sparkstreaming4A/projet_spark_streaming_m1/" />
     <option name="imports" value="_root_.sbt.Keys._, _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.sbt._, _root_.sbt.nio.Keys._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" />
     <option name="resolvers" value="https://repo1.maven.org/maven2/|maven|public, /Users/mathilde/.ivy2/cache|ivy|true|Local cache" />
   </component>
